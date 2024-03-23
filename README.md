@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://media1.tenor.com/m/Wq-MvpjAJksAAAAC/emojilaugh-emoji.gif" width="30px"> I'm Advika Thakur! ✨ </h1>
+<h1 align="center">Hi <img src="![image](https://github.com/A-dvika/A-dvika/assets/115079077/f1969d75-8d17-4163-8379-8c6de3fc3d2c)
+" width="30px"> I'm Advika Thakur! ✨ </h1>
 
 Welcome to my GitHub profile! I'm a dedicated student with a fervent passion for Artificial Intelligence and Machine Learning. Here's a glimpse of what's happening in my world:
 
