@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="![image](https://github.com/A-dvika/A-dvika/assets/115079077/da2a88bb-6813-4e1f-afa6-9385c7417778)
+<h1 align="center">Hi <img src="![pngaaa com-83024](https://github.com/A-dvika/A-dvika/assets/115079077/70809144-074d-461b-929d-78f3c9bd2429)
+
 " width="30px"> I'm Advika Thakur! ✨ </h1>
 
 Welcome to my GitHub profile! I'm a dedicated student with a fervent passion for Artificial Intelligence and Machine Learning. Here's a glimpse of what's happening in my world:
