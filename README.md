@@ -21,8 +21,6 @@
 🔭 I’m currently working on various AI and ML projects, exploring the frontiers of technology.<br>🌱 I’m constantly learning and growing, delving into the depths of data science, neural networks, and more.<br>💬 Feel free to reach out if you want to discuss anything related to AI, ML, or even if you just want to brainstorm some cool ideas!<br>📫 You can connect with me via email at advika.thakur.official@gmail.com or find me on LinkedIn.<br>⚡ Fun fact: Did you know that some AI algorithms are inspired by nature? From genetic algorithms mimicking natural selection to neural networks inspired by the human brain, AI often takes cues from the world around us!
 </p>
 
-<hr>
-
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=A-dvika&icon=0&color=0" alt="visit count">
 </p>
