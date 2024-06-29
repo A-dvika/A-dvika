@@ -102,6 +102,17 @@
 <hr>
 
 <br>
+## Recent Articles on Medium 📚 :
+<br>
+<p>
+<img src="https://medium.com/@A_dvika/unraveling-the-inner-workings-of-rumination-a-dynamic-functional-connectivity-model-based-on-the-3bdb9c8899ed" alt="Inner Workings of Rumination">
+</p>
+<br>
+<p>
+<img src="https://medium.com/@A_dvika/dreamdiffusion-from-brainwaves-to-visual-dreams-831889ef0713" alt="DreamDiffusion: From Brainwaves to Visual Dreams">
+</p>
+<br>
+<p>
 
 <h2 align="center">Support Me By Starring ⭐ Some Of My Repositories</h2>
 
