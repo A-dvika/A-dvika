@@ -103,17 +103,6 @@
 
 <br>
 
-# Recent Articles on Medium 📚 :
-<br>
-<p>
-<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*BL9HkwYnYtqRpWTRQT4RkQ.jpeg" alt="Inner Workings of Rumination">
-</p>
-<br>
-<p>
-<img src="https://miro.medium.com/v2/resize:fit:786/format:webp/0*8KsO9AhEr-r3rLbj" alt="DreamDiffusion: From Brainwaves to Visual Dreams">
-</p>
-<br>
-
 
 <h2 align="center">Support Me By Starring ⭐ Some Of My Repositories</h2>
 
