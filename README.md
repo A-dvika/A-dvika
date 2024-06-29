@@ -1,3 +1,22 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
+</p>
+<h1> Hello Fellow < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40> </h1>
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Chinmay+Sonawane;Computer+Engineering+Student;Cooking+Projects;%40chinmay29hub">
+</p>
+<p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<hr>
+<br>
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=chinmay29hub">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/chinmay29hub?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge"> -->
+</p>
+<br>
+
+
 # 💫 About Me:
 🔭 I’m currently working on various AI and ML projects, exploring the frontiers of technology.<br>🌱 I’m constantly learning and growing, delving into the depths of data science, neural networks, and more.<br>💬 Feel free to reach out if you want to discuss anything related to AI, ML, or even if you just want to brainstorm some cool ideas!<br>📫 You can connect with me via email at advika.thakur.official@gmail.com or find me on LinkedIn.<br>⚡ Fun fact: Did you know that some AI algorithms are inspired by nature? From genetic algorithms mimicking natural selection to neural networks inspired by the human brain, AI often takes cues from the world around us!<br>
 
