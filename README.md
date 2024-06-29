@@ -17,6 +17,9 @@
 🔭 I’m currently working on various AI and ML projects, exploring the frontiers of technology.<br>🌱 I’m constantly learning and growing, delving into the depths of data science, neural networks, and more.<br>💬 Feel free to reach out if you want to discuss anything related to AI, ML, or even if you just want to brainstorm some cool ideas!<br>📫 You can connect with me via email at advika.thakur.official@gmail.com or find me on LinkedIn.<br>⚡ Fun fact: Did you know that some AI algorithms are inspired by nature? From genetic algorithms mimicking natural selection to neural networks inspired by the human brain, AI often takes cues from the world around us!<br>
 
 
+---
+[![](https://visitcount.itsvg.in/api?id=A-dvika&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/a-dvika/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@A_dvika) 
 
@@ -39,7 +42,24 @@
 ![](https://github-contributor-stats.vercel.app/api?username=A-dvika&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
+## Dynamic Quotes 📜:
+<br>
+<p align='center'>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</p>
+<hr>
+<br>
+<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=A-dvika&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align='center'>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
+
+<h2 align='center'>Thank You!!!!!</h2>
+<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+</p>
+
 
