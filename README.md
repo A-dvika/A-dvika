@@ -1,6 +1,6 @@
 # Advika Thakur
 
-**Computer Engineering Student | Software Engineer**
+**Software Engineer @ Goldman Sachs**
 
 Building intelligent systems at the intersection of software engineering and artificial intelligence.
 
@@ -44,11 +44,8 @@ Building intelligent systems at the intersection of software engineering and art
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-dvika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-dvika&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-dvika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-dvika&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=A-dvika&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-dvika&layout=compact&theme=tokyonight&hide_border=true)
